@@ -216,5 +216,6 @@ article p::after {
   }
   nav {
     top: 0;
+    right: 0;
   }
 }
