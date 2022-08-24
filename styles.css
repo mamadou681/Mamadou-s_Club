@@ -218,4 +218,7 @@ article p::after {
     top: 0;
     right: 0;
   }
+  body {
+    right: 0;
+  }
 }
